@@ -12,12 +12,14 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: "Computer Vision"
+  filter: "computervision"
+- name: "Embedded System"
+  filter: "embeddedsystem"
 - name: "Machine Learning"
   filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Quantum Computing"
+  filter: "quantumcomputing"
 
 # your publications
 publications:
@@ -41,42 +43,44 @@ publications:
   categories: ["machinelearning","image-processing"]
   tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
 
-- title: An Example Paper on Security
+- title: EPS 결험 모니터링 시스템의 설계 및 구현
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: 2022년도 대한전자공학회 하계학술대회
+    date: 2022. June
+    url: "#publications"
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Mr. Alabe Lawal Wale
+    url: "#publications"
+  - name: Mr. Mayoura Sor
+    url: "#publications"
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Prof. 한영선
+    url: "#publications"
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: Signal processing and monitoring for Electrical Power Steering system.
+    url: "#publications"
+  categories: ["embeddedsystem"]
+  tags: ["Embedded System"]
+
+
+- title: 아이웨어 기기를 위한 적응형 포비티드 디스플레이 제어 장치 및 방법
+  publishedIn:
+    name: 출원번호 10-2022-0167856
+    date: 2021. December. 20
+    url: "#publications"
+  authors:
+  - name: Mr. 이상현
+    url: "#publications"
+  - name: Mr. 고명성
+    url: "#publications"
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Mr. Mayoura Sor
+    url: "#publications"
+  paper:
+    summary: Foveated rendering technique for eyewear devices.
+    url: "#publications"
+  categories: ["computervision", "embeddedsystem"]
+  tags: ["Computer Vision", "Embedded System"]

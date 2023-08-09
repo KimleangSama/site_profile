@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://keakimleang.com
 
 languageCode: en-us
-title: "John's Blog"
+title: "Kimleang's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -24,8 +24,8 @@ languages:
     languageName: English
     weight: 1
   bn:
-    languageName: বাংলা
-    weight: 3
+    languageName: 한국어
+    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -64,7 +64,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/KimleangSama/site_profile
   # Default branch of your Git repo
   gitBranch: main
 
@@ -80,7 +80,7 @@ params:
       enable: true
       services:
         darkreader:
-          defaultColorScheme: system # options are 'system', 'dark', 'light'
+          defaultColorScheme: light # options are 'system', 'dark', 'light'
           fixes:
             invert: ['img[src$=".svg"]'] # inverts svg colors.
           theme:
@@ -291,4 +291,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
