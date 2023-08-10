@@ -3,7 +3,7 @@ section:
   name: Publications
   id: publications
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -23,25 +23,107 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Accelerating YOLO-based Real-time Object Detection via Foveated Rendering
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: ICCE-Asia 2023
+    date: In Peer-Review # 2023. August
+    url: "#publications"
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Mr. Sanghyeon Lee
+    url: "#publications"
+  - name: Mr. Myeongjin Kwak
+    url: "#publications"
+  - name: Prof. Youngsun Han
+    url: "#publications"    
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: A foveated rendering technique to reduce computational power and increase performance of YOLO object detection.
+    url: "#publications"
+  categories: ["computervision", "machinelearning"]
+  tags: ["Computer Vision", "Machine Learning", "Conference"]
+
+
+- title: An Adaptive Foveated Rendering Technique for Enhanced Computational Efficiency of Virtual Reality Devices
+  publishedIn:
+    name: IEEE Access
+    date: In Peer-Review # 2023. August
+    url: "#publications"
+  authors:
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Prof. Youngsun Han
+    url: "#publications"
+  - name: Prof. Tae-Kyung Kim
+    url: "#publications"
+  paper:
+    summary: Adaptive foveated rendering to reduce computational power of embedded system in rendering.
+    url: "#publications"
+  categories: ["computervision", "embeddedsystem"]
+  tags: ["Computer Vision", "Embedded System", "Journal Paper"]
+
+
+- title: Enhancing Anomaly Detection in Distributed Power Systems using Autoencoder-based Federated Learning
+  publishedIn:
+    name: Plus One
+    date: Accepted # 2023. August
+    url: "#publications"
+  authors:
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Prof. Youngsun Han
+    url: "#publications"
+  - name: Prof. Tae-Kyung Kim
+    url: "#publications"
+  paper:
+    summary: Anomaly detection in multivariate time-series data within the context of Federated Learning.
+    url: "#publications"
+  categories: ["machinelearning"]
+  tags: ["Machine Learning", "Journal Paper"]
+
+
+- title: Design and Implementation of a Data-Driven Defect and Linearity Assessment Monitoring System for Electric Power Steering
+  publishedIn:
+    name: Journal of Internet of Things and Convergence, vol.9, no.2
+    date: 2023. April
+    url: "http://journal.kci.go.kr/kiots/archive/articleView?artiId=ART002953545"
+  authors:
+  - name: Mr. Alabe Lawal Wale
+    url: "#publications"
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Prof. Youngsun Han
+    url: "#publications"
+  - name: Prof. Tae-Kyung Kim
+    url: "#publications"
+  paper:
+    summary: Data-driven defect and linearity assessment monitoring Electrical Power Steering time-series data.
+    url: "http://journal.kci.go.kr/kiots/archive/articleView?artiId=ART002953545"
+  categories: ["embeddedsystem"]
+  tags: ["Embedded System", "Journal Paper"]
+
+
+- title: A Deep Learning Approach to Detect Anomalies in an Electric Power Steering System
+  publishedIn:
+    name: MDPI Sensors, vol.22, no.22, Article No. 8981
+    date: 2022. November
+    url: "https://www.mdpi.com/1424-8220/22/22/8981"
+  authors:
+  - name: Mr. Alabe Lawal Wale
+    url: "#publications"
+  - name: Mr. Kimleang Kea
+    url: "#publications"
+  - name: Prof. Youngsun Han
+    url: "#publications"
+  - name: Prof. Young-Jae Min
+    url: "#publications"
+  - name: Prof. Tae-Kyung Kim
+    url: "#publications"
+  paper:
+    summary: Detecting anomalies of Electrical Power Steering time-series data using LSTM method.
+    url: "https://www.mdpi.com/1424-8220/22/22/8981"
+  categories: ["embeddedsystem", "machinelearning"]
+  tags: ["Machine Learning", "Journal Paper"]
 
 
 - title: EPS 결험 모니터링 시스템의 설계 및 구현
@@ -56,13 +138,13 @@ publications:
     url: "#publications"
   - name: Mr. Kimleang Kea
     url: "#publications"
-  - name: Prof. 한영선
+  - name: Prof. Youngsun Han
     url: "#publications"
   paper:
     summary: Signal processing and monitoring for Electrical Power Steering system.
     url: "#publications"
   categories: ["embeddedsystem"]
-  tags: ["Embedded System"]
+  tags: ["Embedded System", "Conference Paper"]
 
 
 - title: 아이웨어 기기를 위한 적응형 포비티드 디스플레이 제어 장치 및 방법
@@ -71,7 +153,7 @@ publications:
     date: 2021. December. 20
     url: "#publications"
   authors:
-  - name: Mr. 이상현
+  - name: Mr. Sanghyeon Lee
     url: "#publications"
   - name: Mr. 고명성
     url: "#publications"
@@ -83,4 +165,4 @@ publications:
     summary: Foveated rendering technique for eyewear devices.
     url: "#publications"
   categories: ["computervision", "embeddedsystem"]
-  tags: ["Computer Vision", "Embedded System"]
+  tags: ["Computer Vision", "Embedded System", "Patent"]
