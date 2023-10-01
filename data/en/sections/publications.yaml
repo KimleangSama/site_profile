@@ -39,7 +39,7 @@ publications:
     url: "#publications"
   paper:
     summary: The EV industry faces charging inefficiencies due to limited power supply and long wait times. We propose using the quantum approximation optimization algorithm (QAOA) to improve EV charging by solving the knapsack problem, which optimizes power use and reduces waiting. Our approach achieves up to 100% and 50% approximation ratios in noise-free and noisy settings, making it effective even with small circuit sizes.
-    url: "#publications"
+    url: "https://ieeexplore.ieee.org/document/10267926"
   categories: ["optimization", "quantumcomputing"]
   tags: ["Optimization", "Quantum Computing", "Journal Paper"]
 
