@@ -166,43 +166,43 @@ publications:
   tags: ["Machine Learning", "Journal Paper"]
 
 
-- title: EPS 결험 모니터링 시스템의 설계 및 구현
-  publishedIn:
-    name: 2022년도 대한전자공학회 하계학술대회
-    date: Accepted - 2022. June
-    url: "#publications"
-  authors:
-  - name: Mr. Alabe Lawal Wale
-    url: "#publications"
-  - name: Mr. Mayoura Sor
-    url: "#publications"
-  - name: Mr. Kimleang Kea
-    url: "#publications"
-  - name: Prof. Youngsun Han
-    url: "#publications"
-  paper:
-    summary: Signal processing and monitoring for Electrical Power Steering system.
-    url: "#publications"
-  categories: ["embeddedsystem"]
-  tags: ["Embedded System", "Conference Paper"]
+# - title: EPS 결험 모니터링 시스템의 설계 및 구현
+#   publishedIn:
+#     name: 2022년도 대한전자공학회 하계학술대회
+#     date: Accepted - 2022. June
+#     url: "#publications"
+#   authors:
+#   - name: Mr. Alabe Lawal Wale
+#     url: "#publications"
+#   - name: Mr. Mayoura Sor
+#     url: "#publications"
+#   - name: Mr. Kimleang Kea
+#     url: "#publications"
+#   - name: Prof. Youngsun Han
+#     url: "#publications"
+#   paper:
+#     summary: Signal processing and monitoring for Electrical Power Steering system.
+#     url: "#publications"
+#   categories: ["embeddedsystem"]
+#   tags: ["Embedded System", "Conference Paper"]
 
 
-- title: 아이웨어 기기를 위한 적응형 포비티드 디스플레이 제어 장치 및 방법
-  publishedIn:
-    name: 출원번호 10-2022-0167856
-    date: Accepted - 2021. December. 20
-    url: "#publications"
-  authors:
-  - name: Mr. Sanghyeon Lee
-    url: "#publications"
-  - name: Mr. 고명성
-    url: "#publications"
-  - name: Mr. Kimleang Kea
-    url: "#publications"
-  - name: Mr. Mayoura Sor
-    url: "#publications"
-  paper:
-    summary: Foveated rendering technique for eyewear devices.
-    url: "#publications"
-  categories: ["computervision", "embeddedsystem"]
-  tags: ["Computer Vision", "Embedded System", "Patent"]
+# - title: 아이웨어 기기를 위한 적응형 포비티드 디스플레이 제어 장치 및 방법
+#   publishedIn:
+#     name: 출원번호 10-2022-0167856
+#     date: Accepted - 2021. December. 20
+#     url: "#publications"
+#   authors:
+#   - name: Mr. Sanghyeon Lee
+#     url: "#publications"
+#   - name: Mr. 고명성
+#     url: "#publications"
+#   - name: Mr. Kimleang Kea
+#     url: "#publications"
+#   - name: Mr. Mayoura Sor
+#     url: "#publications"
+#   paper:
+#     summary: Foveated rendering technique for eyewear devices.
+#     url: "#publications"
+#   categories: ["computervision", "embeddedsystem"]
+#   tags: ["Computer Vision", "Embedded System", "Patent"]

@@ -27,8 +27,8 @@ projects:
   logo: /images/sections/projects/quantum.png
   role: Owner, Developer
   timeline: "June 2023 - August 2023"
-  repo: https://github.com/Kimleang-QML/qaoa_for_knapsack_ev_charging_problem
-  url: "https://github.com/Kimleang-QML/qaoa_for_knapsack_ev_charging_problem"
+  repo: https://github.com/QCL-PKNU/QAOA-Knapsack-EV-Charging
+  url: "https://github.com/QCL-PKNU/QAOA-Knapsack-EV-Charging"
   summary: A Quantum Approximation Optimization to solve the Knapsack Problem in EV Charging Scheduling.
   tags: ["academic", "professional", "quantum"]
 
